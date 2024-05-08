@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "usbembebido")(type "KiCad")(uri "C:/Users/RYZEN/Downloads/PCBnew/usbembebido.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/RYZEN/Downloads/PCBnew/ledlateral.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "ledlateral")(type "KiCad")(uri "C:/Users/RYZEN/Downloads/PCBnew/ledlateral.pretty/Library.pretty/ledlateral.pretty")(options "")(descr ""))
+  (lib (name "usbembebido2")(type "KiCad")(uri "C:/Users/RYZEN/Downloads/uccmicroduinoproyecto-comision1-GERRRO-main/uccMicroDuino SMD -GERRRO/PCBnew/usbembebido2.pretty")(options "")(descr ""))
+  (lib (name "usbembebidoucc")(type "KiCad")(uri "C:/Users/RYZEN/Downloads/uccmicroduinoproyecto-comision1-GERRRO-main/uccMicroDuino SMD -GERRRO/PCBnew/usbembebidoucc.pretty")(options "")(descr ""))
+  (lib (name "ledgreenandred")(type "KiCad")(uri "C:/Users/RYZEN/Downloads/uccmicroduinoproyecto-comision1-GERRRO-main/uccMicroDuino SMD -GERRRO/PCBnew/ledgreenandred.pretty")(options "")(descr ""))
+)
